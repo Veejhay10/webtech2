@@ -1,0 +1,87 @@
+body {
+    background-image: url('it1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+
+#hhh1{
+    font-style: bold;
+    font-size: xx-large;
+    color: azure;
+
+
+    }
+
+img {
+    
+    border-radius: 50;
+  }
+#back1{
+    color: aliceblue;
+    background-image: url(bg1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position:right bottom , left bottom;
+    background-repeat: no-repeat;
+    padding: 30px;
+}
+
+
+
+#section1{height: 40vh;
+text-align: center;
+font-style: bold;
+font-size: large;
+color: rgb(255, 255, 255);
+background-image: url(it.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+}
+
+
+
+
+#section2{height: 20vh;
+text-align: center;
+font-style: italic;
+font-size: large;
+color: rgb(255, 255, 255);
+background-image:url(it.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+}
+
+#section3{height: 10vh;
+text-align: center;
+font-style: italic;
+font-size: large;
+color: rgb(255, 255, 255);
+background-image:url(it.jpg) ;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+}
+    
+#section4{height: 10vh;
+text-align: center;
+font-style: italic;
+font-size: larger;
+color: rgb(255, 255, 255);
+background-image: url(it.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+}
+
+#section5{height: 30vh;
+font-style: italic;
+font-size: larger;
+color:rgb(255, 255, 255);
+background-image:url(it.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+}
